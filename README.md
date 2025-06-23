@@ -33,3 +33,12 @@
 </body>
 </html>
 # Plays-app
+📂 your-repo-name
+ ┣ 📁 images
+ ┃ ┣ freefire.jpg
+ ┃ ┗ subway.jpg
+ ┣ 📁 downloads
+ ┃ ┣ freefire.apk
+ ┃ ┗ subway.apk
+ ┣ index.html
+ ┗ style.css
