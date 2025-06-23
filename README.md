@@ -15,7 +15,7 @@
     <div class="game-card">
       <img src="images/freefire.jpg" alt="Free Fire">
       <h2>Free Fire</h2>
-      <a href="downloads/freefire.apk" download>تحميل اللعبة</a>
+      <a href="downloads/freefire.apk" download.freefire.com>تحميل اللعبة</a>
     </div>
 
     <div class="game-card">
